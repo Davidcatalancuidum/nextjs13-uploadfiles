@@ -22,7 +22,7 @@
     "tailwindcss": "^3.4.17"
   },
   "eslintConfig": {
-    "extends":[
+    "extends": [
       ".node_modules/standard/eslintrc.json"
     ]
   }
